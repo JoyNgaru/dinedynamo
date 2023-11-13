@@ -18,7 +18,7 @@ DineDynamo is an interactive menu display, ordering system, and AI chatbot desig
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/YourUsername/DineDynamo.git
+   git clone https://github.com/JoyNgaru/dinedynamo.git
    ```
 
 2. **Install Dependencies**
