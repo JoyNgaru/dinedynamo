@@ -1,6 +1,6 @@
 # dinedynamo
 
-![DineDynamo Logo](link/to/logo.png)
+![DineDynamo Logo](https://www.canva.com/design/DAFzc4P5VGg/LUnIHQ1ohFwSfZvJBOTA-Q/edit?utm_content=DAFzc4P5VGg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Introduction
 
