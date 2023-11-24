@@ -1,7 +1,5 @@
 # dinedynamo
 
-![DineDynamo Logo](https://www.canva.com/design/DAFzc4P5VGg/zYtnxtcyJIAJbxhB2CuBCA/view?utm_content=DAFzc4P5VGg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 ## Introduction
 
 DineDynamo is an interactive menu display, ordering system, and AI chatbot designed to revolutionize the dining experience for customers and restaurant owners.
